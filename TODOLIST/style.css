@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.main_container{
+    border: 3px solid black;
+    border-radius: 20px 20px 0px 0px;
+    width: 450px;
+    margin: auto;
+}
+
+.titles{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sear{
+    padding: 16px;
+    display: flex;
+    justify-content:space-around;
+}
+
+.sear_part input{
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: x-large;
+}
+
+#btn{
+    width: 100px;
+    border-radius: 23px;
+    font-size: x-large;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.head_part{
+        background-color:gold;
+        border-radius: 20px 20px 0px 0px;
+        height: 100%px;
+}
+
+ul{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:15px;
+    }
+
+li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
